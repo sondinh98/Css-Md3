@@ -1,0 +1,10 @@
+h1 {
+    color: lime;
+}
+p {
+    color: brown;
+    font-family: Arial;
+    font-size: 20%;
+    border: 1px solid red;
+    padding:20px;
+}
